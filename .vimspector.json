@@ -7,7 +7,7 @@
         "protocol": "auto",
         "stopOnEntry": true,
         "console": "integratedTerminal",
-        "program": "${workspaceRoot}/day/indexP2.ts",
+        "program": "${workspaceRoot}/day2/index.js",
         "cwd": "${workspaceRoot}"
       }
     },
